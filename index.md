@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ulzhan Tankayeva's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ulzhan Tankayeva
+Software engineer.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
