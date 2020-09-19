@@ -5,11 +5,10 @@ title: Ulzhan Tankayeva's CV
 # Ulzhan Tankayeva
 Software engineer.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+## Contacts
+87075286750
 
+ulzhan.tankayeva@gmail.com
 
 ## Currently
 
@@ -58,11 +57,13 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2009 - 2013`
+__LLP "ITG"__
 
-- Warden
-- Minted coins
+- Made Refactoring of current existing modules changing their structure in both back/front-end sides and database structure
+- Developed Microservices following Agile-Scrum methodology, using Spring Boot. Participated in daily Scrum meetings and Sprint reviews
+- Developed RESTful Web services partnered with architect and Team Lead  to define bounded context and architecture design
+- Resolved technical issues of enterprise software
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
